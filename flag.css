@@ -1,0 +1,32 @@
+.flag{
+    background-color: black;
+}
+
+h1{
+    color:red;
+    text-align: center;
+}
+.white{
+    width: 500px; height: 300px;
+    background-color: white;
+    margin:70px 500px;
+}
+.orange{
+	transform: translate(-50% ,-0%);
+    width: 500.2px; height: 100px;
+    background-color:orange;
+    margin:10px 250px;
+    
+}
+.green{
+	transform: translate(-50% ,-50%);
+    width: 500.2px; height: 100px;
+    background-color:green;
+    margin:151px 250px;
+}
+img{
+    position: absolute;
+    transform: translate(-50%,-50%);
+    height:75px; width:75px;
+    margin:-220px 750px;
+}
